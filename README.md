@@ -29,6 +29,14 @@ Visualization: 2-skeleton of k-dimensional simplicial complex
 
 [3-nerve of Diabetes data]()
 
+## Redwine Dataset
+
+![redwine_2_400_055](https://romiebanerjee.github.io/EXAMPLES/redwine_2_400_055.png)
+
+[2-nerve of redwine data]
+
+
+
 
 
 
