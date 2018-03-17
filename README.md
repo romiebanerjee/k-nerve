@@ -9,7 +9,7 @@ Visualization: 2-skeleton of k-dimensional simplicial complex
 
 ## Iris Dataset
 
-#### http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html
+#### Source: http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html
 
 ![iris_2_400_1](https://romiebanerjee.github.io/EXAMPLES/iris_2_400_1.png)
 
@@ -17,13 +17,15 @@ Visualization: 2-skeleton of k-dimensional simplicial complex
 
 ## Breast Cancer Dataset
 
-#### http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+#### Source: http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
 
 ![breast_cancer_2_400_065](https://romiebanerjee.github.io/EXAMPLES/breast_cancer_2_400_065.png)
 
 [2-nerve of Breast Cancer Dataset]()
 
 ## Diabetes Dataset 
+
+#### Source: http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html
 
 ![diabetes_2_225_065](https://romiebanerjee.github.io/EXAMPLES/diabetes_2_225_065.png)
 
@@ -34,7 +36,8 @@ Visualization: 2-skeleton of k-dimensional simplicial complex
 [3-nerve of Diabetes data]()
 
 ## Wine Quality Dataset 
-#### https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+
+#### Source: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 ![redwine_2_400_055](https://romiebanerjee.github.io/EXAMPLES/redwine_2_400_055.png)
 
