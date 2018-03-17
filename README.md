@@ -30,7 +30,7 @@ Visualization: 2-skeleton of k-dimensional simplicial complex
 [3-nerve of Diabetes data]()
 
 ## Wine Quality Dataset 
-(https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+### (https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 
 ![redwine_2_400_055](https://romiebanerjee.github.io/EXAMPLES/redwine_2_400_055.png)
 
