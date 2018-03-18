@@ -10,7 +10,7 @@ var simulation = d3.forceSimulation()
 
   
 
-d3.json("EXAMPLES/whitewine_2_400_075.json", function(error,  network){
+d3.json("kNerve.json", function(error,  network){
   if (error) throw error;
    
   //Force Link Network//
