@@ -21,7 +21,9 @@ Data: http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_bre
 
 ![breast_cancer_2_400_065](https://romiebanerjee.github.io/EXAMPLES/breast_cancer_2_400_065.png)
 
-[2-nerve of Breast Cancer Dataset]
+2-nerve of Breast Cancer Dataset
+
+Click [here](https://romiebanerjee.github.io/EXAMPLES/kNerve_breastcancer.html) foer interactive version
 
 ## Diabetes Dataset 
 
@@ -41,7 +43,9 @@ Data: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 ![redwine_2_400_055](https://romiebanerjee.github.io/EXAMPLES/redwine_2_400_055.png)
 
-[2-nerve of redwine data] Click [here](https://romiebanerjee.github.io/EXAMPLES/index_redwine.html) for interactive version.
+2-nerve of redwine data
+
+Click [here](https://romiebanerjee.github.io/EXAMPLES/index_redwine.html) for interactive version.
 
 
 
