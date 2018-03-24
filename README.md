@@ -23,7 +23,7 @@ Data: http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_bre
 
 2-nerve of Breast Cancer Dataset
 
-Click [here](https://romiebanerjee.github.io/EXAMPLES/kNerve_breastcancer.html) foer interactive version
+Click [here](https://romiebanerjee.github.io/EXAMPLES/index_breastcancer.html) for interactive version
 
 ## Diabetes Dataset 
 
