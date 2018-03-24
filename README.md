@@ -41,7 +41,7 @@ Click [here](https://romiebanerjee.github.io/EXAMPLES/index_diabetes2.html) for 
 
 3-nerve of Diabetes data
 
-Click [here](https://romiebanerjee.github.io/EXAMPLES/index_diabetes3.html) for interactive version
+Click [here](https://romiebanerjee.github.io/EXAMPLES/index_diabetes3.html) for interactive version.
 
 
 ## Wine Quality Dataset 
