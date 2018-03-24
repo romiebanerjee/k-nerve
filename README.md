@@ -33,11 +33,16 @@ Data: http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_dia
 
 ![diabetes_2_225_065](https://romiebanerjee.github.io/EXAMPLES/diabetes_2_225_065.png)
 
-[2-nerve of Diabetes data]
+2-nerve of Diabetes data
+
+Click [here](https://romiebanerjee.github.io/EXAMPLES/index_diabetes2.html) for interactive version
 
 ![diabetes_3_225_04](https://romiebanerjee.github.io/EXAMPLES/diabetes_3_225_04.png)
 
-[3-nerve of Diabetes data]
+3-nerve of Diabetes data
+
+Click [here](https://romiebanerjee.github.io/EXAMPLES/index_diabetes3.html) for interactive version
+
 
 ## Wine Quality Dataset 
 
