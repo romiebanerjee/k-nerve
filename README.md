@@ -13,7 +13,9 @@ Data: http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iri
 
 ![iris_2_400_1](https://romiebanerjee.github.io/EXAMPLES/iris_2_400_1.png)
 
-[2-nerve of Iris Dataset] 
+2-nerve of Iris Dataset
+
+Click [here](https://romiebanerjee.github.io/EXAMPLES/iris_2_400_1.png) for interactive version.
 
 ## Breast Cancer Dataset
 
