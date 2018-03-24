@@ -41,7 +41,7 @@ Data: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 ![redwine_2_400_055](https://romiebanerjee.github.io/EXAMPLES/redwine_2_400_055.png)
 
-[2-nerve of redwine data] Click [here](https://romiebanerjee.github.io/EXAMPLES/index.html) for interactive version.
+[2-nerve of redwine data] Click [here](https://romiebanerjee.github.io/EXAMPLES/index_redwine.html) for interactive version.
 
 
 
