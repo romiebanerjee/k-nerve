@@ -13,7 +13,7 @@ Data: http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iri
 
 ![iris_2_400_1](https://romiebanerjee.github.io/EXAMPLES/iris_2_400_1.png)
 
-[2-nerve of Iris Dataset] (https://romiebanerjee.github.io/EXAMPLES/index.html)
+[2-nerve of Iris Dataset] 
 
 ## Breast Cancer Dataset
 
@@ -41,7 +41,7 @@ Data: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 ![redwine_2_400_055](https://romiebanerjee.github.io/EXAMPLES/redwine_2_400_055.png)
 
-[2-nerve of redwine data]
+[2-nerve of redwine data] Click [here]
 
 
 
