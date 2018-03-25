@@ -35,7 +35,7 @@ Data: http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_dia
 
 2-nerve of Diabetes data
 
-Click [here](https://romiebanerjee.github.io/EXAMPLES/index_diabetes2.html) for interactive version
+Click [here](https://romiebanerjee.github.io/EXAMPLES/index_diabetes2.html) for interactive version.
 
 ![diabetes_3_225_04](https://romiebanerjee.github.io/EXAMPLES/diabetes_3_225_04.png)
 
