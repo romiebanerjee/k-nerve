@@ -9,7 +9,7 @@ Visualization: 2-skeleton of k-dimensional simplicial complex
 ## Dependencies
 * numpy
 * pandas
-* sklearn.decomposition
+* sklearn.decomposition.PCA
 * sklearn.cluster.DBSCAN
 * json
 * d3.js
