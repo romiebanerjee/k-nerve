@@ -1,11 +1,21 @@
 # k-nerve
+-------------------------------------------------------------
 Input: n-dimensional dataset (ex: numpy array of floats) + covering dimension = k ( any integer between 1 and n)
 
 Output: k-dimensional simplicial complex (k <= n )
 
 Visualization: 2-skeleton of k-dimensional simplicial complex 
 
+## Dependencies
+-------------------------------------------------------------------
+* numpy
+* pandas
+* sklearn.decomposition
+* json
+
+
 # Examples
+--------------------------------------------------------------------
 
 ## Iris Dataset
 
