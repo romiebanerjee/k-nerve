@@ -11,6 +11,7 @@ Visualization: 2-skeleton of k-dimensional simplicial complex
 * pandas
 * sklearn.decomposition
 * json
+* d3.js
 
 
 # Examples
