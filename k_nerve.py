@@ -5,6 +5,7 @@ Created on Wed Jan 31 17:16:51 2018
 
 @author: romie
 """
+#Hello Git
 
 import numpy as np
 import pandas as pd 
